@@ -16,7 +16,8 @@ public class Banco {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Edición Ejercicio 6.1.");
+        System.out.println("Ejercicio 6.3");
+        System.out.println("Modificamos el código para el ejercicio 6.3");
     }
     
 }
